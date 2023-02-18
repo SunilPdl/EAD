@@ -97,18 +97,10 @@ git add index.html
 git commit -m '<message>'
 git push origin main
 ```
-*A message will show as*
-
-![git pull first message](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/labs/lab1/images/pull-frist.png?raw=true)
-
 5. Pull the changes to local repo
 ```
 git pull origin main
 ```
-6. A merge conflict will be shown
-
-![merge conflict example](https://ihatetomatoes.net/wp-content/uploads/2020/05/img_merge-conflict.png)
-
 7. Resolve the conflict by either accepting incoming changes, keeping current changes, accepting both changes or removing both changes.
 8. Add, commit and push the merge resolve
 ```
@@ -123,5 +115,3 @@ git commit -am 'merge conflict resolved'
 ```
 git push origin main
 ```
-
-*Lab work repo in (https://github.com/college-related/git-practice) && (https://github.com/Salipa-Gurung/PRACTICE-GIT)*
